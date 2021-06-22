@@ -1,3 +1,4 @@
 dataset/*
 lesson03/dataset/*
-
+lesson03/training_checkpoints/*
+lipsync
