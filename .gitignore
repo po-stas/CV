@@ -3,3 +3,8 @@ lesson03/dataset/*
 lesson03/training_checkpoints/*
 lipsync
 lesson04/dataset/*
+lesson05/dataset/*
+lesson05/keras-retinanet/*
+lesson05/model/*
+lesson05/snapshots/*
+*.pdf
