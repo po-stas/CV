@@ -8,3 +8,6 @@ lesson05/keras-retinanet/*
 lesson05/model/*
 lesson05/snapshots/*
 *.pdf
+geo_net
+geo_net/*
+lesson06/saved_model/*
