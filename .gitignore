@@ -5,6 +5,7 @@ lipsync
 lesson04/dataset/*
 lesson05/dataset/*
 lesson05/keras-retinanet/*
+lesson05/keras-retinanet
 lesson05/model/*
 lesson05/snapshots/*
 *.pdf
